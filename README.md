@@ -32,8 +32,5 @@ This project is an interactive sales dashboard created using Google Looker Studi
 - Blinkit Grocery Sales Report.pdf
 - Blinkit sales dataset.xlsx
 
-## Dashboard Preview
-(Add dashboard screenshot here)
-
 ## Author
 Neeti Tomar
